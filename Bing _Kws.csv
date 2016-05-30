@@ -1,0 +1,14 @@
+Campaign,Ad Group,Status,Keyword,Match type,Max CPC
+GENERIC:PO Box,GENERIC:PO Box: Generic,Enabled,[po box],Exact,3
+GENERIC:Mail Service,USA:GENERIC:Online Mail Service,Enabled,[mail service],Exact,4
+GENERIC:PO Box,GENERIC:PO Box: Generic,Enabled,[get a po box],Exact,3
+GENERIC:PO Box,GENERIC:PO Box: Generic,Enabled,[us po box],Exact,3
+GENERIC:Mail Box,GENERIC:Mail Box:Virtual,Enabled,[business mailbox],Exact,3
+GENERIC:Mail Box,GENERIC:Mail Box:Rent,Enabled,[mailbox rental],Exact,4
+GENERIC:Mail Box,GENERIC:Mail Box:Virtual,Enabled,[virtual mailbox],Exact,3
+GENERIC:Mail Box,GENERIC:Mail Box:Virtual,Enabled,[traveling mailbox],Exact,3
+GENERIC:PO Box,GENERIC:PO Box: Generic,Enabled,[where can i get a po box],Exact,3
+GENERIC:PO Box,GENERIC:PO Box: Generic,Enabled,[purchase a po box],Exact,3
+GENERIC:Mail Box,GENERIC:Mail Box:Online,Enabled,[online mailbox],Exact,6
+GENERIC:Mail Box,GENERIC:Mail Box:Virtual,Enabled,[virtual mailbox reviews],Exact,3
+GENERIC:PO Box,GENERIC:PO Box:Online,Enabled,[buy po box online],Exact,3

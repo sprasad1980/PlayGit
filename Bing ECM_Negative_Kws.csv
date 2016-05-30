@@ -1,0 +1,10 @@
+Type,Campaign,Ad Group,Negative,Criterion Type,Status
+Ad Group Negative Keyword,GENERIC: Address,GENERIC:Virtual Office Address,"""florida""",Phrase,Active
+Ad Group Negative Keyword,GENERIC: Address,GENERIC:Virtual Office Address,"""new york""",Phrase,Active
+Ad Group Negative Keyword,GENERIC:PO Box,GENERIC:PO Box: Generic,"""cost""",Phrase,Active
+Ad Group Negative Keyword,GENERIC:Mail Box,GENERIC:Mail Box:Virtual:BP,"""los angeles""",Phrase,Active
+Ad Group Negative Keyword,GENERIC:Mail Service,USA:GENERIC:Online Mail Service:BP,"""letter""",Phrase,Active
+Ad Group Negative Keyword,GENERIC:PO Box,GENERIC:PO Box: Generic,[po box cost],Exact,Active
+Ad Group Negative Keyword,GENERIC:Mail Box,GENERIC:Mail Box:Virtual:BP,[mailbox forwarding],Exact,Active
+Ad Group Negative Keyword,BRAND,BRAND:Generic,"""bankruptcy""",Phrase,Active
+Ad Group Negative Keyword,GENERIC:Mail Box,GENERIC:Mail Box:Virtual:BP,"""mailbox forwarding""",Phrase,Active
